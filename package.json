@@ -1,0 +1,19 @@
+{
+  "name": "Final_Project",
+  "version": "1.0.0",
+  "description": "My final project",
+  "main": "server.js",
+  "repository": "https://github.com/aj-codez/aj-finalproject.git",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.7"
+  }
+}

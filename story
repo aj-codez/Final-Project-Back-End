@@ -1,0 +1,1 @@
+As a college student, I want create a journal application so I can make something to help people like me get through it.
