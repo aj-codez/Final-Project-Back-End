@@ -7,6 +7,7 @@ const entrySchema = new Schema({
     mood:{type: String,required: false},
     day:{type:Number},
     month:{type:Number},
-    year:{type:Number}
+    year:{type:Number},
+    charcter:{type:String, required: false}
 })
 module.exports = model('Entries', entrySchema);
